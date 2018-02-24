@@ -364,4 +364,3 @@ date,day,work,weekend,longweekend,reportweek,dayofmonth,month,year
 2018-12-29,sobota,0,1,1,52,29,12,2018
 2018-12-30,niedziela,0,1,1,52,30,12,2018
 2018-12-31,poniedziałek,1,0,0,53,31,12,2018
-2019-01-01,wtorek,1,0,0,53,1,1,2019
